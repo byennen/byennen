@@ -21,7 +21,7 @@ As a passionate software entrepreneur and experienced tech leader, I have dedica
 
 #### 📚 When I'm not coding:
 - Exploring the latest in Web3, AI, and blockchain technologies.
-- I'm exploring new startup ideas and innovations in the tech space.
+- Exploring new startup ideas and innovations in the tech space.
 - Engaging in tech talks, mentorship, and continuously learning about emerging tech trends.
 
 ---
