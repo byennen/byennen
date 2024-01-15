@@ -18,9 +18,9 @@ As a passionate software entrepreneur and experienced tech leader, I have dedica
 #### 🤝 Let's Connect:
 - 🌍 Visit my [website](https://lanceennen.com) for more on my journey and projects.
 - 💼 For collaborations and consulting inquiries, reach out to me [here](https://lanceennen.com/contact).
-- 👀 Exploring the latest in Web3, AI, and blockchain technologies.
 
 #### 📚 When I'm not coding:
+- Exploring the latest in Web3, AI, and blockchain technologies.
 - I'm exploring new startup ideas and innovations in the tech space.
 - Engaging in tech talks, mentorship, and continuously learning about emerging tech trends.
 
